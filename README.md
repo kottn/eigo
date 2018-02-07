@@ -20,9 +20,12 @@ git clone https://github.com/kottn/eigo && . ./eigo/install.sh
 英和としてつかう
 ```
 eigo interpolation
-eigo interp          # ..orlation? ..oration? あれ?ってなっても大丈夫
 
-eigo ^interp         # interpで始まるものだけ表示
+eigo interp            # ..orlation? ..oration? ってなったとき便利
+
+eigo ^interp           # 先頭マッチ
+
+eigo ^interpolation$   # 完全マッチ
 ```
 
 和英としてつかう
