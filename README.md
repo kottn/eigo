@@ -6,7 +6,7 @@
 ```
 eigo interpolation
 
-eigo interp            # ..orlation? ..oration? ってなったとき用
+eigo interp            # ..orlation? ..oration? ってなっても大丈夫
 
 eigo ^interp           # 先頭マッチ
 
