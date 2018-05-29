@@ -1,5 +1,5 @@
 #!/bin/bash
-cd $(dirname $0)
+cd `dirname $0`
 
 curl -LO http://www.namazu.org/~tsuchiya/sdic/data/gene95.tar.gz
 tar zxfv *.tar.gz
