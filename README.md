@@ -22,5 +22,6 @@ eigo ^論文           # 日本語でも大丈夫
 
 ## Getting Started
 ```
-$ git clone https://github.com/kottn/eigo; . ./eigo/setup
+$ git clone https://github.com/kottn/eigo
+$ cd eigo; ./setup
 ```
